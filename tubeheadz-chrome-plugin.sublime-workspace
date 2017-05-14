@@ -1,0 +1,868 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crede",
+				"credentialError\tloginController.js"
+			],
+			[
+				"connec",
+				"connectionPool\tmysql.js"
+			],
+			[
+				"some",
+				"someOtherPlaintextPassword\tbcrypt.js"
+			],
+			[
+				"state",
+				"state_integrity_error\trefresh.js"
+			],
+			[
+				"setss",
+				"set_state_integrity_error(state, type_should_be, type_is, other)\tdata2.js"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"nad",
+				"nadobauploads"
+			],
+			[
+				"targe",
+				"target_file_xml"
+			],
+			[
+				"error",
+				"error_invalid_xml"
+			],
+			[
+				"tar",
+				"target_file_veko_svg"
+			],
+			[
+				"kresli",
+				"kresli_vlny"
+			],
+			[
+				"pozi",
+				"pozicie_spolu_str\tbutton_actions.js"
+			],
+			[
+				"delta",
+				"delta_theta_o_ref\tdata.js"
+			],
+			[
+				"theta",
+				"theta_a_pretlak"
+			],
+			[
+				"vyska",
+				"vyska_tlakomeru\tdata.js"
+			],
+			[
+				"rho_",
+				"rho_oleja"
+			],
+			[
+				"rho",
+				"rho_plechu"
+			],
+			[
+				"prev",
+				"previs_veka"
+			],
+			[
+				"add",
+				"addChild"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"file",
+				"file_id"
+			],
+			[
+				"json",
+				"json_result"
+			],
+			[
+				"type",
+				"type_should_be\tdata.js"
+			],
+			[
+				"staet",
+				"state_integrity_error\tdata.js"
+			],
+			[
+				"in",
+				"in_type\tdata.js"
+			],
+			[
+				"vys",
+				"vyska_dna_2\tdata.js"
+			],
+			[
+				"cm",
+				"cmdargv"
+			],
+			[
+				"free",
+				"free_proc"
+			],
+			[
+				"table",
+				"table_remove"
+			],
+			[
+				"tv",
+				"tv_usec"
+			],
+			[
+				"pid",
+				"pid_to_proc"
+			],
+			[
+				"TABLE",
+				"TABLE_SIZE"
+			],
+			[
+				"pid_",
+				"pid_to_n"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"KS",
+				"KS_IMPULSE"
+			],
+			[
+				"KS_",
+				"KS_DOWN"
+			],
+			[
+				"key",
+				"keystate"
+			],
+			[
+				"he",
+				"hello_world_surf1"
+			],
+			[
+				"hello",
+				"hello_world_surf"
+			],
+			[
+				"p",
+				"play"
+			],
+			[
+				"mous",
+				"mouseclick_snd"
+			],
+			[
+				"te",
+				"text_rect"
+			],
+			[
+				"lcd",
+				"lcd1_font"
+			],
+			[
+				"route",
+				"route_hello"
+			],
+			[
+				"wid",
+				"width\tindex.html"
+			],
+			[
+				"wi",
+				"width_up()\tindex.html"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"firs",
+				"firstNode"
+			],
+			[
+				"seco",
+				"secondNode"
+			],
+			[
+				"dire",
+				"directions"
+			],
+			[
+				"check",
+				"check_only_one_component"
+			],
+			[
+				"net",
+				"network_game"
+			],
+			[
+				"mycolo",
+				"my_color"
+			],
+			[
+				"m",
+				"my_color"
+			],
+			[
+				"sing",
+				"single"
+			],
+			[
+				"single",
+				"single_forecast"
+			],
+			[
+				"best",
+				"bestgamma"
+			],
+			[
+				"sum",
+				"sumsquares"
+			],
+			[
+				"o",
+				"observations"
+			],
+			[
+				"matri",
+				"matrix_mod_is_invertible_3x3"
+			],
+			[
+				"M",
+				"M26_COPRIME_INTEGERS"
+			],
+			[
+				"mat",
+				"matrix_matrix_mod_multiply"
+			],
+			[
+				"matrix",
+				"matrix_mod_inverse"
+			],
+			[
+				"hill",
+				"hill_decipher"
+			],
+			[
+				"c",
+				"hill_cipher"
+			],
+			[
+				"n",
+				"ninvertible"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"M2",
+				"M26_COPRIME_INTEGERS"
+			],
+			[
+				"ib",
+				"isbn13_check_digit"
+			],
+			[
+				"chec",
+				"isbn13_check_digit"
+			],
+			[
+				"is",
+				"isbn13_check_digit"
+			],
+			[
+				"matr",
+				"matrix_mod_inverse_2x2"
+			],
+			[
+				"sca",
+				"scalar_mod_invert"
+			],
+			[
+				"exten",
+				"extended_gcd"
+			],
+			[
+				"ex",
+				"extended_gcd"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"ret",
+				"ret"
+			],
+			[
+				"cislo",
+				"cislo_fives"
+			],
+			[
+				"pisme",
+				"pismena_fives"
+			],
+			[
+				"rimske",
+				"rimske_pismena"
+			],
+			[
+				"rim",
+				"rimske_pismena"
+			],
+			[
+				"Npo",
+				"Npokusov"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 305,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "manifest.json"
+			}
+		},
+		{
+			"file": "popup.html",
+			"settings":
+			{
+				"buffer_size": 792,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "popup.js",
+			"settings":
+			{
+				"buffer_size": 779,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "// Copyright (c) 2014 The Chromium Authors. All ri"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"cdnjs",
+				"Cdnjs: Import Script"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('ahoj')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dominik/tubeheadz-chrome-plugin"
+	],
+	"file_history":
+	[
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/backend/get_json_data.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/refresh.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/button_actions.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba.xml",
+		"/C/Users/Dominik/tubeheadz/server/views/addVideo.hbs",
+		"/C/Users/Dominik/tubeheadz/server/routes/webclient-router.js",
+		"/C/Users/Dominik/tubeheadz/server/views/user.hbs",
+		"/C/Users/Dominik/tubeheadz/server/routes/api-router.js",
+		"/C/Users/Dominik/tubeheadz/server/app.js",
+		"/C/Users/Dominik/tubeheadz/server/index.js",
+		"/C/Users/Dominik/Downloads/35252-600.xml",
+		"/C/Users/Dominik/iCloudDrive/zodpovednost.txt",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/type.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/helper.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/data.js",
+		"/C/Users/Dominik/tubeheadz/server/routes/controllers/recordController.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/selectors.js",
+		"/C/Users/Dominik/tubeheadz/server/views/partials/nav.hbs",
+		"/C/Users/Dominik/tubeheadz/server/views/partials/tracker.hbs",
+		"/C/Users/Dominik/tubeheadz/server/routes/auth.js",
+		"/C/Users/Dominik/tubeheadz/server/views/index.hbs",
+		"/C/Users/Dominik/tubeheadz/server/routes/controllers/loginController.js",
+		"/C/Users/Dominik/tubeheadz/server/routes/controllers/userController.js",
+		"/C/Users/Dominik/tubeheadz/server/views/layouts/layout.hbs",
+		"/C/Users/Dominik/tubeheadz/server/views/partials/500.hbs",
+		"/C/Users/Dominik/tubeheadz/server/views/404.hbs",
+		"/C/Users/Dominik/tubeheadz/server/routes/controllers/signupController.js",
+		"/C/Users/Dominik/tubeheadz/server/routes/controllers/logoutController.js",
+		"/C/Users/Dominik/tubeheadz/server/views/partials/join.hbs",
+		"/C/Users/Dominik/tubeheadz/server/views/partials/login.hbs",
+		"/C/Users/Dominik/tubeheadz/server/api-router.js",
+		"/C/Users/Dominik/tubeheadz/server/webclient-router.js",
+		"/C/Users/Dominik/tubeheadz/server/views/about.hbs",
+		"/C/Users/Dominik/tubeheadz/server/controllers/userController.js",
+		"/C/Users/Dominik/tubeheadz/server/public/static_web/about.html",
+		"/C/Users/Dominik/tubeheadz/server/middleware/mysql.js",
+		"/C/Users/Dominik/Downloads/channels.sql",
+		"/C/Users/Dominik/tubeheadz/server/controllers/signupController.js",
+		"/C/Users/Dominik/tubeheadz/server/views/layouts/index.hbs",
+		"/C/Users/Dominik/tubeheadz/.env",
+		"/C/Users/Dominik/tubeheadz/server/views/layouts/error.hbs",
+		"/C/Users/Dominik/tubeheadz/server/public/stylesheets/style.css",
+		"/C/Users/Dominik/tubeheadz/test/__test.js",
+		"/C/Users/Dominik/tubeheadz/test/bcrypt.js",
+		"/C/Users/Dominik/tubeheadz/server/controllers/basicController.js",
+		"/C/Users/Dominik/Downloads/records.sql",
+		"/C/Users/Dominik/tubeheadz/.gitignore",
+		"/C/Users/Dominik/tubeheadz/bin/test",
+		"/C/Users/Dominik/tubeheadz/server/test/mysql.js",
+		"/C/Users/Dominik/tubeheadz/server/connection.js",
+		"/C/Users/Dominik/tubeheadz/package.json",
+		"/C/Users/Dominik/tubeheadz/server/test/__test.js",
+		"/C/Users/Dominik/tubeheadz/bin/production",
+		"/C/Users/Dominik/tubeheadz/bin/dev",
+		"/C/Users/Dominik/tubeheadz/.babelrc",
+		"/C/Users/Dominik/tubeheadz/server/test/bcrypt.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/data-old.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/js/data.js",
+		"/C/Users/Dominik/Downloads/35952-627 (6).xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/empty.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/download.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/get_json_data.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/upload.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/js/button_actions.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/js/refresh.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/index.php",
+		"/C/Users/Dominik/iCloudDrive/slepy gulas.txt",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/35952-627.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/58b8ff77f2828.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/58b8ff77f2828_wip_58b8ff98ca9a1.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/js/math.js",
+		"/C/Users/Dominik/Desktop/bez/vv/nginit.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/test-xmls/empty.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba-xml-2/35952-627 (3).xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/css/styles.css",
+		"/C/Users/Dominik/Desktop/bez/vv/index.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba-xml-2/empty.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba-xml-2/testbezmerane.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba-xml-2/test_bez_nadoba.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/bootstrap/js/bootstrap.js",
+		"/C/Users/Dominik/Desktop/bez/sp/index.php",
+		"/C/Users/Dominik/Desktop/bez/sp/js/button_actions.js",
+		"/C/Users/Dominik/Desktop/bez/sp/ie8test.html",
+		"/C/Users/Dominik/Desktop/bez/vv/result.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba-xml-2/35952-627.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/errors.php",
+		"/C/Users/Dominik/Desktop/bez/vv/parser.php",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba-xml-2/vlny.html",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/nadoba-xml-2/vlny.html",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/backend/nadoba-xml-2/35952-627.xml",
+		"/C/Users/Dominik/Desktop/bez/vv/js/index.js",
+		"/C/Users/Dominik/Desktop/bez/vv/template.html",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/nadoba-xml-2/vlny.html",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/nadoba-xml-2/35952-627.xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba/nadoba (2).xml",
+		"/C/Users/Dominik/Downloads/400single_0 (1).xml",
+		"/C/Users/Dominik/Desktop/bez/nadoba - Copy.xml",
+		"/C/Users/Dominik/Desktop/bez/sp/backend/errors.php",
+		"/C/Users/Dominik/Desktop/bez/sp/backend/upload.php",
+		"/C/Users/Dominik/Desktop/bez/vv/README.md",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/js/selectors.js",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/css/vendor/font-awesome.min.css",
+		"/C/Users/Dominik/Desktop/bez/nadoba/web/bootstrap/version.txt",
+		"/C/Users/Dominik/Desktop/USB/DIPLOMOVKA/agentspace/agentspace.cpp",
+		"/C/Users/Dominik/Desktop/ShareMouse/ReadMe.txt",
+		"/C/Users/Dominik/Desktop/osprog-lukac49/as02/momo.c",
+		"/C/Users/Dominik/Desktop/osprog-lukac49/as02/rsa",
+		"/C/Users/Dominik/Desktop/githubkey.pub",
+		"/C/Users/Dominik/Desktop/osprog-lukac49/as02/whiletrue.c",
+		"/E/momo.hash",
+		"/E/bkp/bkp PC 2016-01-29/Downloads/uloha02kurva.txt",
+		"/E/bkp/bkp PC 2016-01-29/Downloads/priloha.txt",
+		"/E/bkp/bkp PC 2016-01-29/Downloads/main.txt",
+		"/E/bkp/bkp PC 2016-01-29/Downloads/kluc.txt",
+		"/E/bkp/bkp PC 2016-01-29/Downloads/db.txt",
+		"/E/bkp/bkp PC 2016-01-29/Downloads/0.txt",
+		"/E/bkp/bkp PC 2016-01-29/Desktop/TIS TODO.txt",
+		"/E/bkp/bkp PC 2016-01-29/Desktop/baka",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Downloads/rozdelenieRoboty.txt",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/what-to-ask.txt",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/Derivacie",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/blog",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/github kody/github_2fa_recovery_codes.txt",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/github kody/zodpovednost",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/github kody/zodpovednost - Copy",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Desktop/WORKOUT",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Desktop/zaluby",
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Desktop/todo skola"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bcrypt",
+			"dtheta_om",
+			"om",
+			"/logout",
+			"logout",
+			"timestamp",
+			"dtheta_om",
+			"d+",
+			"d+((.",
+			"/\\-?\\d+((\\.|\\,)\\d+)?/",
+			"\\-?\\d+((\\.|\\,)\\d+)?",
+			"NaN",
+			"state",
+			"refresh_vsetko",
+			"dtheta_o",
+			"dtheta",
+			"theta_a",
+			" plechu",
+			" rho",
+			" &rho;",
+			" rho\\; plechu",
+			" rho; plechu",
+			" plechu",
+			"theta_a",
+			"delta",
+			"dtheta_om",
+			"replace",
+			";",
+			"m_kg_switch",
+			"bootstrapToggle",
+			"fileupload.css",
+			"fileupload.js",
+			"swit",
+			"swith",
+			"sm",
+			"7",
+			"6",
+			"[mm]",
+			"table_get",
+			"\\[",
+			"\\]",
+			"\\[",
+			"[^><+-.,\\[\\]\\n]",
+			"[^><+-.,\\[\\]]",
+			"#",
+			"])\n",
+			"145A32",
+			"bridges",
+			"edges",
+			"pos",
+			"zip",
+			"publicK",
+			"privateK",
+			"publicK",
+			"odpovedat",
+			"statusupda",
+			"returning",
+			"randint",
+			"print",
+			"is_inver",
+			"\\ ",
+			"matrix_mult",
+			"\t\n",
+			"getAllNeighbors",
+			"getval",
+			"print",
+			"\t",
+			"bold"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"auto_name": "manifest.json",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "popup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "popup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Copyright (c) 2014 The Chromium Authors. All ri",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tubeheadz-chrome-plugin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
