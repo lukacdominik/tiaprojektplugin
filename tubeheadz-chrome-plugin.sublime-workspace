@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"textContent\tpopup.js"
+			],
+			[
 				"crede",
 				"credentialError\tloginController.js"
 			],
@@ -192,10 +196,6 @@
 				"width_up()\tindex.html"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
 				"inline",
 				"inline-block"
 			],
@@ -344,20 +344,38 @@
 	"buffers":
 	[
 		{
-			"file": "manifest.json",
+			"file": "contentscript.js",
 			"settings":
 			{
-				"buffer_size": 305,
+				"buffer_size": 696,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
-				"name": "manifest.json"
+				"name": "contentscript.js"
+			}
+		},
+		{
+			"file": "eventpage.js",
+			"settings":
+			{
+				"buffer_size": 1771,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "eventpage.js"
+			}
+		},
+		{
+			"file": "/C/Users/Dominik/Downloads/basic/content.js",
+			"settings":
+			{
+				"buffer_size": 1406,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "popup.html",
 			"settings":
 			{
-				"buffer_size": 792,
+				"buffer_size": 822,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -366,7 +384,7 @@
 			"file": "popup.js",
 			"settings":
 			{
-				"buffer_size": 779,
+				"buffer_size": 716,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "// Copyright (c) 2014 The Chromium Authors. All ri"
@@ -451,6 +469,12 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Dominik/Desktop/-- moje -- bookmarks/16.5.2017/bookmarks_5_16_17.html",
+		"/C/Users/Dominik/Desktop/output_log.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/output_log.txt",
+		"/C/Users/Dominik/Downloads/basic/background.js",
+		"/C/Users/Dominik/tubeheadz-chrome-plugin/manifest.json",
+		"/C/Users/Dominik/Downloads/basic/manifest.json",
 		"/C/Users/Dominik/Desktop/bez/nadoba/web2/backend/get_json_data.php",
 		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/refresh.js",
 		"/C/Users/Dominik/Desktop/bez/nadoba/web2/js/button_actions.js",
@@ -572,17 +596,11 @@
 		"/E/bkp/bkp PC 2016-01-01/Dominik/Downloads/rozdelenieRoboty.txt",
 		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/what-to-ask.txt",
 		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/Derivacie",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/blog",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/github kody/github_2fa_recovery_codes.txt",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/github kody/zodpovednost",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/github kody/zodpovednost - Copy",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Desktop/WORKOUT",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Desktop/zaluby",
-		"/E/bkp/bkp PC 2016-01-01/Dominik/Desktop/todo skola"
+		"/E/bkp/bkp PC 2016-01-01/Dominik/Documents/blog"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -597,6 +615,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"building themes",
+			"polici",
+			"polic",
+			"number",
 			"bcrypt",
 			"dtheta_om",
 			"om",
@@ -683,30 +705,30 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "manifest.json",
+					"file": "contentscript.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 305,
+						"buffer_size": 696,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								266,
-								266
+								194,
+								194
 							]
 						],
 						"settings":
 						{
-							"auto_name": "manifest.json",
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"auto_name": "contentscript.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -717,19 +739,78 @@
 				},
 				{
 					"buffer": 1,
-					"file": "popup.html",
+					"file": "eventpage.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 792,
+						"buffer_size": 1771,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								762,
-								762
+								1211,
+								1211
+							]
+						],
+						"settings":
+						{
+							"auto_name": "eventpage.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 89.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Dominik/Downloads/basic/content.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								824,
+								824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "popup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								792,
+								792
 							]
 						],
 						"settings":
@@ -742,24 +823,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "popup.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 779,
+						"buffer_size": 716,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								779,
-								779
+								712,
+								712
 							]
 						],
 						"settings":
@@ -773,7 +854,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

@@ -11,13 +11,14 @@
 	},
 
 	"background": {
-		"scripts": ["eventpage.js"],
+		"scripts": ["helper.js", "eventpage.js"],
 		"persistent": false
 	},
 
 	"content_scripts": [{
-		"matches": ["*://www.youtube.com/watch?*"],
-		"js": ["contentscript.js"]
+		"matches": ["*://www.youtube.com/*"],
+		"js": ["contentscript.js"],
+		"run_at": "document_start"
 	}],
 
 	"icons": {
