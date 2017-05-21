@@ -34,6 +34,7 @@ function parseDuration(str) {
 	}
 	var seconds = rest.split('S')[0]
 	return (
+		// note - days, hours, minutes and seconds are strings, not numbers
 		(days > 1 ? `${days} days ` : days === 1 ? '1 day ' : '')
 		+ (hours > 0 ? `${hours}:` : '')
 		+ (minutes >= 10 ? `${minutes}:` : `0${minutes}:`)

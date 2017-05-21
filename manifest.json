@@ -29,6 +29,8 @@
 		"activeTab",
 		"tabs",
 		"webNavigation",
-		"storage"
+		"storage",
+		"identity",
+		"*://localhost/*"
 	]
 }
